@@ -14,8 +14,8 @@ Diferente do tipo 1, que surge na infância, o tipo 2 aparece geralmente na vida
 ---
 
 ## 🌍 Prevalência e Impacto
-- **Mundo:** Mais de **500 milhões** de pessoas vivem com diabetes, sendo o tipo 2 responsável por cerca de **90%** dos casos (OMS).  
-- **Brasil:** Mais de **15 milhões** de pessoas, colocando o país entre os dez com maior número de casos (Ministério da Saúde).  
+- **Mundo:** Mais de **500 milhões** de pessoas vivem com diabetes, sendo o tipo 2 responsável por cerca de **90%** dos casos (OMS, 2023).  
+- **Brasil:** Mais de **15 milhões** de pessoas convivem com o diabetes, colocando o país entre os dez com maior número de casos (Ministério da Saúde).  
 
 💰 **Impacto econômico:** altos custos para o **SUS**, especialmente com internações e tratamento de complicações.  
 ⚠ **Impacto social:** perda de qualidade de vida, redução da produtividade e aumento da mortalidade e morbidade.  
